@@ -2,6 +2,7 @@
   "name": "demotypescript",
   "version": "0.1.0",
   "private": true,
+  "type":"module",
   "homepage": "https://raziv-pandey.github.io/demotypescript",
   "dependencies": {
     "@emotion/react": "^11.11.1",
