@@ -2,7 +2,6 @@
   "name": "demotypescript",
   "version": "0.1.0",
   "private": true,
-  "type":"module",
   "homepage": "https://raziv-pandey.github.io/demotypescript",
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -33,7 +32,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "browserslist": {
