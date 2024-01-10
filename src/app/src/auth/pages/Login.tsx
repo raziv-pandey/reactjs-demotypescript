@@ -35,7 +35,7 @@ export const Login = () => {
   useEffect(() => {
     if (isLoginSuccess) {
       alert("Login");
-      localStorage.setItem('userInfo', JSON.stringify(loginUserData));
+      localStorage.setItem("userInfo", JSON.stringify(loginUserData));
       navigate("/home");
     }
     // else{
